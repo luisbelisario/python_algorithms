@@ -26,6 +26,6 @@ def main():
             print('Finalizando...')
         else:
             print('Opção inválida!')
-    print('Fim do programa!')
+    print('Seu programa foi finalizado!')
 
 main()
