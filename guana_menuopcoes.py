@@ -1,6 +1,6 @@
 def main():
-    valor_1 = int(input('Primeiro valor: '))
-    valor_2 = int(input('Segundo valor: '))
+    valor_1 = int(input('First value: '))
+    valor_2 = int(input('Second value: '))
     operacao = 0
     while operacao != 5:
         print('Digite:\n [1] - Somar\n [2] - Multiplicar\n [3] - Maior\n\
